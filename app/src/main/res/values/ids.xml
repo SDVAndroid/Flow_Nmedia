@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="header" type="id" />
+    <item name="footer" type="id" />
+    <item name="list" type="id" />
+    <item name="bottomAppBar" type="id" />
+    <item name="ok" type="id" />
+</resources>

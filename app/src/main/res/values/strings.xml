@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="hello">Hello World!</string>
+    <string name="description_post_author_avatar">Post author avatar</string>
+    <string name="description_post_menu">Post menu</string>
+    <string name="description_post_like">Like</string>
+    <string name="description_post_share">Share</string>
+    <string name="description_post_save">Save</string>
+    <string name="menu_remove">Remove</string>
+    <string name="post_text">Post Text</string>
+    <string name="menu_edit">Edit</string>
+    <string name="error_empty_content">Content can\'t be empty</string>
+    <string name="avatar" translatable="false" />
+    <string name="description_post_cancelEdit">Cancel</string>
+    <string name="chooser_share_post">Share post</string>
+    <string name="add_post" />
+    <string name="channel_remote_name">Server notifications</string>
+    <string name="channel_remote_description">Notifications from remote server</string>
+    <string name="google_play_unavailable">Google Api Unavailable</string>
+    <string name="notification_user_new_post">User %1$s liked %2$s\'s post %3$s</string>
+    <string name="empty">Empty</string>
+    <string name="network_error">Network error</string>
+    <string name="small_error">Oops, something went wrong :( . Refresh and try again or restart the app.</string>
+    <string name="small_error_positive">Refresh</string>
+    <string name="small_error_negative">Restart</string>
+    <string name="simple_description">Something missing here…</string>
+    <string name="chooser_play_video">Play</string>
+    <string name="error">Oops, something went wrong :( . Refresh or try again.</string>
+    <string name="retry">Retry</string>
+    <string name="empty_posts">Nothing to see here yet :(</string>
+    <string name="empty_content_warning">Content can\'t be empty</string>
+    <string name="type_hint">Enter the text…</string>
+</resources>
